@@ -1,4 +1,4 @@
-# SharePoint Framework DataTable web part sample
+# SharePoint Framework DataTable with configuration 
 
 ## Summary
 
@@ -13,7 +13,6 @@ This web part provides easy way to render SharePoint custom list in datatable vi
 - Column Ordering,
 - Dynamic colors for odd and even rows.
 
-![Preview](assets/preview.png?raw=true "Preview")
 
 
 
